@@ -1685,3 +1685,4 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/BP_FirstPersonGameMod
 [2026.01.06-16.56.21:339][ 14]LogPakFile: Destroying PakPlatformFile
 [2026.01.06-16.56.21:649][ 14]LogD3D12RHI: ~FD3D12DynamicRHI
 [2026.01.06-16.56.21:749][ 14]LogExit: Exiting.
+[2026.01.06-16.56.21:777][ 14]Log file closed, 01/06/26 16:56:21
