@@ -2749,3 +2749,6 @@ FPackageName: Skipped package /Game/FirstPerson/Blueprints/BP_FirstPersonGameMod
 [2026.01.13-14.16.05:573][948]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 [2026.01.13-14.16.05:573][948]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 [2026.01.13-14.16.05:573][948]LogPakFile: Destroying PakPlatformFile
+[2026.01.13-14.16.06:296][948]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.13-14.16.06:547][948]LogExit: Exiting.
+[2026.01.13-14.16.06:607][948]Log file closed, 01/13/26 14:16:06
