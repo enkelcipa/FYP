@@ -6289,3 +6289,24 @@ Script call stack:
 [2026.01.26-19.40.11:662][897]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.01.26-19.40.12:168][897]LogExit: Editor shut down
 [2026.01.26-19.40.12:175][897]LogExit: Transaction tracking system shut down
+[2026.01.26-19.40.19:300][897]LogExit: Object subsystem successfully closed.
+[2026.01.26-19.40.19:362][897]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.01.26-19.40.20:766][897]LogMemoryProfiler: Shutdown
+[2026.01.26-19.40.20:785][897]LogNetworkingProfiler: Shutdown
+[2026.01.26-19.40.20:785][897]LoadingProfiler: Shutdown
+[2026.01.26-19.40.20:786][897]LogTimingProfiler: Shutdown
+[2026.01.26-19.40.20:947][897]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.01.26-19.40.20:947][897]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.01.26-19.40.21:845][897]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.01.26-19.40.21:902][897]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.01.26-19.40.21:902][897]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B837020F4-4172-90F4-7005-25B2B9C363A6%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=91f8db0e4fb3e249b9bb8196751169d3%7Cadd8ae9ba7654a348050c27b146ad428%7Ca485e3a4-c65d-4f8d-aa66-50514c3338d2&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.01.26-19.40.22:588][897]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.01.26-19.40.22:595][897]RenderDocPlugin: plugin has been unloaded.
+[2026.01.26-19.40.22:595][897]LogNFORDenoise: NFORDenoise function shutting down
+[2026.01.26-19.40.22:671][897]LogXGEController: Cleaning working directory: C:/Users/enkel/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2026.01.26-19.40.23:023][897]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.01.26-19.40.23:024][897]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.01.26-19.40.23:024][897]LogPakFile: Destroying PakPlatformFile
+[2026.01.26-19.40.23:749][897]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.01.26-19.40.24:229][897]LogExit: Exiting.
+[2026.01.26-19.40.24:267][897]Log file closed, 01/26/26 19:40:24
