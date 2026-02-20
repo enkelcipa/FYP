@@ -7086,3 +7086,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.02.20-18.03.58:964][930]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
 [2026.02.20-18.04.03:991][930]LogExit: Editor shut down
 [2026.02.20-18.04.04:465][930]LogExit: Transaction tracking system shut down
+[2026.02.20-18.04.27:079][930]LogExit: Object subsystem successfully closed.
+[2026.02.20-18.04.27:170][930]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.02.20-18.04.36:181][930]LogMemoryProfiler: Shutdown
+[2026.02.20-18.04.36:215][930]LogNetworkingProfiler: Shutdown
+[2026.02.20-18.04.36:215][930]LoadingProfiler: Shutdown
+[2026.02.20-18.04.36:216][930]LogTimingProfiler: Shutdown
+[2026.02.20-18.04.36:472][930]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.02.20-18.04.36:548][930]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
