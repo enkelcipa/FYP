@@ -63,7 +63,6 @@
 "../../../Engine/Content/EditorResources/S_Actor.ubulk" 62
 "../../../Engine/Content/EditorResources/S_Actor.uasset" 63
 "../../../Engine/Content/EditorResources/S_Actor.uexp" 64
-"../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNEDTIM_ColorAlbedoNormal_Default.uexp" 73
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNEDTOM_Output_Default.uasset" 65
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNEDTOM_Output_Default.uexp" 66
 "../../../Engine/Plugins/NNE/NNEDenoiser/Content/NNEDTOM_Output_Alpha.uasset" 67
